@@ -1,0 +1,28 @@
+#first{
+    background-color: black;
+    color: whitesmoke;
+    
+}
+#heading{
+    font-family: "Libre Baskerville",cursive;
+    
+}
+.lesson1{
+    padding: 20px;
+    border: 10px solid;
+    
+    color: rgb(171, 132, 132);
+    width: 300px;
+    left: 250px;
+    
+    
+}
+.lesson2{
+    padding: 20px;
+    border: 10px solid;
+    
+    color: rgb(171, 132, 132);
+    width: 300px;
+    
+    
+}

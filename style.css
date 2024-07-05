@@ -1,0 +1,45 @@
+*{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+}
+h1{
+    font-family: "Libre Baskerville",cursive;
+    position: relative;
+    padding: 20px;
+}
+
+.virat_roop{
+    border: 10px solid white;
+    padding: 45px;
+}   
+#virat{
+    font-size:xx-small;
+    margin-top: -60px;
+    color: rgb(78, 78, 89);
+    font-family:monospace ;
+    font-weight: 900;
+    
+}
+#shlok{
+    margin-top: 100px;
+    text-align: left;
+    padding: 25px;
+    font-family:monospace;
+    font-size: large;
+    color: #BBE9FF;
+
+}
+#meaning{
+    text-align: right;
+    font-size: large;
+    
+    padding: 25px;
+    
+    color: #37B7C3;
+}
+button{
+    color: #37B7C3;
+    background-color:#BBE9FF;
+}
